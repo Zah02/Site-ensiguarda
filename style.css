@@ -1,0 +1,162 @@
+.cemlargura{
+    width: 100%;
+}
+.theone{
+    background-color: white;
+    height: 150px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;    
+}
+.logo{
+    width: 300px;
+   align-items: center;
+}
+.butoes{ 
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    
+}
+.butoes :hover{
+    cursor: pointer;
+}
+.but{
+    border-radius: 13px;
+    height: 35px;
+    width: 120px;
+    font-weight: 600;
+     background-color: rgb(4, 132, 156);
+     color: white;
+     font-family: "Roboto", Sans-serif;
+     border: none;
+}
+.but1{
+    border-radius: 13px;
+    margin: 50px;
+    height: 35px;
+    width: 120px;
+    font-weight: 600;
+         background-color: #1ABEA3;
+     color: white;
+     font-family: "Roboto", Sans-serif;
+     border: none;
+}
+.but2{
+    border-radius: 13px;
+    margin: 2px;
+    height: 35px;
+    width: 200px;
+    font-weight: 600;
+         background-color:  #709204;
+     color: white;
+     font-family: "Roboto", Sans-serif;
+     border: none;
+}
+.lista{
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+    display: inline-flex;
+    font-family: "Montserrat", Sans-serif;
+    color: grey;
+}
+.lista :hover{
+    cursor: pointer;
+    color: rgb(4, 132, 156);
+}
+.frase{
+    font-family: "Poppins", Sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+}
+.imagens{
+ margin:10px;
+ display: inline-block;
+ justify-content: center;
+}
+.img1{
+    width: 300px;
+    height: 250px;
+}
+.img2{
+    width: 300px;
+    height: 250px;
+}
+.img3{
+    width: 300px;
+    height: 250px;
+}
+.img4{
+    width: 300px;
+    height: 250px;
+}
+.img5{
+    width: 300px;
+    height: 250px;
+}
+.bannertxt{
+    display: flex;
+    justify-content: center;
+}
+.bannerbtn{
+   box-sizing: border-box;
+   border-radius: 5px;
+   margin: 2px;
+   margin-left: 700px;
+    height: 40px;
+    width: 155px;
+    font-weight: 600;
+        background-color: rgb(4, 132, 156);
+     color: white;
+     font-family: "Roboto", Sans-serif;
+     border: none;
+}
+.bannerbtn:hover{
+    cursor: pointer;
+}
+.inscricaotxt{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 50px;
+    letter-spacing: -2px;
+    color: #303030;
+}
+.inscricaobtn{
+    box-sizing: border-box;
+   border-radius: 5px;
+   margin: 2px;
+   margin-left: 700px;
+    height: 40px;
+    width: 155px;
+    font-weight: 600;
+        background-color: rgb(4, 132, 156);
+     color: white;
+     font-family: "Roboto", Sans-serif;
+     border: none;
+}
+.noticias{
+     background-color: rgb(4, 132, 156);
+     color: white;
+     display: flex;
+    justify-content: center;
+    height: 30px;
+    border-radius: 5px;
+    width: 1380px;
+    margin-left: 80px;
+    
+}
+.motiv{
+    display: flex;
+    justify-content: center;
+}
