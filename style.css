@@ -13,6 +13,7 @@
     width: 300px;
    align-items: center;
 }
+
 .butoes{ 
     display: flex;
     align-items: center;
@@ -99,6 +100,7 @@
     width: 300px;
     height: 250px;
 }
+
 .bannertxt{
     display: flex;
     justify-content: center;
@@ -152,11 +154,23 @@
     justify-content: center;
     height: 30px;
     border-radius: 5px;
-    width: 1380px;
-    margin-left: 80px;
+    width: 1700px;
     
 }
 .motiv{
     display: flex;
     justify-content: center;
 }
+.porto{
+    background-color: #34368d;
+    color: white;
+}
+.Aveiro{
+    background-color: #2a4d9c;
+    color: white;
+}
+.Aveiro{
+    background-color: #429e9e;
+    color: white;
+}
+
