@@ -1,5 +1,7 @@
 .cemlargura{
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 .theone{
     background-color: white;
@@ -48,7 +50,7 @@
     border-radius: 13px;
     margin: 2px;
     height: 35px;
-    width: 200px;
+    width: 300px;
     font-weight: 600;
          background-color:  #709204;
      color: white;
@@ -76,28 +78,26 @@
     justify-content: center;
 }
 .imagens{
- margin:10px;
- display: inline-block;
- justify-content: center;
+ width: 100%;
 }
 .img1{
-    width: 300px;
+    width: 20%;
     height: 250px;
 }
 .img2{
-    width: 300px;
+    width: 20%;
     height: 250px;
 }
 .img3{
-    width: 300px;
+    width: 20%;
     height: 250px;
 }
 .img4{
-    width: 300px;
+    width: 15%;
     height: 250px;
 }
 .img5{
-    width: 300px;
+    width: 20%;
     height: 250px;
 }
 
@@ -138,7 +138,7 @@
     box-sizing: border-box;
    border-radius: 5px;
    margin: 2px;
-   margin-left: 700px;
+   margin-left: 900px;
     height: 40px;
     width: 155px;
     font-weight: 600;
@@ -147,14 +147,7 @@
      font-family: "Roboto", Sans-serif;
      border: none;
 }
-.noticias{
-     background-color: rgb(4, 132, 156);
-     color: white;
-     display: flex;
-    justify-content: center;
-    height: 30px;
-    border-radius: 5px;
-    width: 1700px;
+.bannerimg{
     
 }
 .motiv{
@@ -169,8 +162,7 @@
     background-color: #2a4d9c;
     color: white;
 }
-.Aveiro{
+.leiria{
     background-color: #429e9e;
     color: white;
 }
-
